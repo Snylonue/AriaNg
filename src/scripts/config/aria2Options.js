@@ -74,7 +74,7 @@
             defaultValue: '1',
             required: true,
             min: 1,
-            max: 16
+            max: 128
         },
         'max-file-not-found': {
             type: 'integer',
